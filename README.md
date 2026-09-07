@@ -12,3 +12,8 @@ Below are images containing the playhouse render.
 <img width="841" height="757" alt="render2" src="https://github.com/user-attachments/assets/672ad091-42d8-4bef-bca1-639dafab1776" />
 <img width="782" height="762" alt="render3" src="https://github.com/user-attachments/assets/d61d34de-30e8-453c-bfc6-2517f5ebb500" />
 
+# Initial Playhouse Sketch
+
+Thanks for sticking around! Here is Wenbor's awesome sketch that I tried my best to bring to life.
+
+<img width="500" height="457" alt="playhouse_sketch" src="https://github.com/user-attachments/assets/7b6734a3-d69b-414a-ab92-eb58ebbfc6ed" />
