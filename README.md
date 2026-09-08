@@ -1,6 +1,8 @@
 # playhouse-design
 
-This is my submission for Hack Club's Playhouse program! I designed a cafe/bakery using Onshape, starting with sketches on paper to get a sense of how I would build it. This was my first time using CAD, and I did well for my experience! It was fun experimenting with Onshape, and I now have a better insight into how to use it. The initial design is at the bottom of the README file if you are interested. 
+This is my submission for Hack Club's Playhouse program! I designed a cafe/bakery for my Smiski using Onshape, starting with sketches on paper to get a sense of how I would build it. This was my first time using CAD, and I did well for my experience! It was fun experimenting with Onshape, and I now have a better insight into how to use it. I intend to print wall and floor designs to attach to it. My initial design is at the bottom of this file if you are interested. 
+
+This contains furniture including a door, door mat, trash can, clock, ceiling lamp, two chairs, table, counter, two round cake plates, a slice of cake on a plate, fork, and a cup! 
 
 Special thanks to Wenbor for making my idea come to life on paper! :D
 
