@@ -15,7 +15,7 @@ Below are images containing the playhouse render.
 <img width="782" height="762" alt="render3" src="https://github.com/user-attachments/assets/d61d34de-30e8-453c-bfc6-2517f5ebb500" />
 
 # IRL Build
-This is what I was able to create after getting it printed! I know it looks a bit different... I also added some little fellas to keep the bakery busy
+This is what I was able to create after getting it printed! It looks a bit different, but I added some fellas to keep the bakery busy!
 <img width="486" height="427" alt="image" src="https://github.com/user-attachments/assets/647f55f7-1a32-4ddd-a07b-cd8804eb05b1" />
 <img width="470" height="417" alt="image" src="https://github.com/user-attachments/assets/12a88b72-8de5-45ef-a5ad-ee9cd8b185e6" />
 
